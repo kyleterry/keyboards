@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name keyboard-components)(type Legacy)(uri ${KIPRJMOD}/library/kyleterry/symbols/keyboard-components.lib)(options "")(descr ""))
+  (lib (name SparkFun-IC-Microcontroller)(type Legacy)(uri ${KIPRJMOD}/library/sparkfun/Libraries/SparkFun-IC-Microcontroller.lib)(options "")(descr ""))
+  (lib (name keebio)(type Legacy)(uri ${KIPRJMOD}/library/keebio/keebio-components/keebio.lib)(options "")(descr ""))
+  (lib (name tmk_keyboard_parts)(type Legacy)(uri ${KIPRJMOD}/library/tmk/symbols/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name tmk_mkl27z256vfm4)(type Legacy)(uri ${KIPRJMOD}/library/tmk/symbols/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name dk_Crystals)(type Legacy)(uri ${KIPRJMOD}/library/digikey/digikey-symbols/dk_Crystals.lib)(options "")(descr ""))
+  (lib (name dk_Oscillators)(type Legacy)(uri ${KIPRJMOD}/library/digikey/digikey-symbols/dk_Oscillators.lib)(options "")(descr ""))
+  (lib (name SparkFun-Switches)(type Legacy)(uri ${KIPRJMOD}/library/sparkfun/Libraries/SparkFun-Switches.lib)(options "")(descr ""))
+)

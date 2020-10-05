@@ -1,0 +1,21 @@
+[submodule "pcbs/library/sparkfun"]
+	path = pcbs/library/sparkfun
+	url = https://github.com/sparkfun/SparkFun-KiCad-Libraries
+[submodule "pcbs/library/digikey"]
+	path = pcbs/library/digikey
+	url = https://github.com/Digi-Key/digikey-kicad-library.git
+[submodule "pcbs/library/keebio/Keebio-Parts.pretty"]
+	path = pcbs/library/keebio/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty
+[submodule "pcbs/library/keebio/keebio-components"]
+	path = pcbs/library/keebio/keebio-components
+	url = https://github.com/keebio/keebio-components
+[submodule "pcbs/library/tmk/symbols"]
+	path = pcbs/library/tmk/symbols
+	url = https://github.com/tmk/kicad_lib_tmk
+[submodule "pcbs/library/tmk/keyboard_parts.pretty"]
+	path = pcbs/library/tmk/keyboard_parts.pretty
+	url = https://github.com/tmk/keyboard_parts.pretty
+[submodule "pcbs/library/egladman/keebs.pretty"]
+	path = pcbs/library/egladman/keebs.pretty
+	url = https://github.com/egladman/keebs.pretty
